@@ -7,3 +7,4 @@ print("\nI am looking forward to the weekend!!")
 monkey = 15
 if monkey >= 15:
     print("\nTomorrow is friday")
+print ("Tomorow I learn random int")
